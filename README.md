@@ -57,11 +57,8 @@
 
 ---
 
+---
+
 ## 👀 Profile Views
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=shimlatjahan&style=for-the-badge"
-    alt="Profile Views"
-  />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=shimlatjahan&label=Profile%20Views&style=for-the-badge)
