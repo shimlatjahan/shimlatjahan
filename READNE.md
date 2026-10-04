@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shimlat Jahan Sonia</h1>
 
-<h3 align="center">🌱 Public Administration Student | Web Development Enthusiast</h3>
+<h3 align="center">🌱 Public Administration Student | Web Development Enthusiast ✨</h3>
 
 <p align="center">
   <img
@@ -26,20 +26,20 @@
 
 ### 💻 Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Skills" />
 </p>
 
 ### ⚙️ Backend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Skills" />
 </p>
 
 ### 🧰 Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
 </p>
 
 ---
@@ -48,13 +48,13 @@
 
 <p align="center">
   <img
-    width="48%"
     src="https://github-readme-stats.vercel.app/api?username=shimlatjahan&show_icons=true&theme=tokyonight&hide_border=true"
     alt="Shimlat's GitHub Stats"
   />
+</p>
 
+<p align="center">
   <img
-    width="37%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimlatjahan&layout=compact&theme=tokyonight&hide_border=true"
     alt="Most Used Languages"
   />
@@ -73,22 +73,11 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/shimlatjahan/shimlatjahan/output/github-contribution-grid-snake-dark.svg"
-    alt="Snake animation"
-  />
-</p>
-
----
-
 ## 👀 Profile Views
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=shimlatjahan&label=PROFILE+VIEWS&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=shimlatjahan&label=PROFILE%20VIEWS&style=for-the-badge"
     alt="Profile Views"
   />
 </p>
