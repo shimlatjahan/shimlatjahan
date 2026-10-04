@@ -49,4 +49,4 @@
 
 ## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=shimlatjahan&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=shimlatjahan&label=Profile%20Views&style=for-the-badge)
