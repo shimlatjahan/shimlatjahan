@@ -1,8 +1,14 @@
 <!-- ==================== BANNER ==================== -->
 
 <p align="center">
-  <img src="./banner.jpg" alt="Shimlat Jahan Sonia" width="100%" />
+  <img
+    src="https://raw.githubusercontent.com/shimlatjahan/shimlatjahan/main/banner.png"
+    alt="Shimlat Jahan Sonia Banner"
+    width="100%"
+  />
 </p>
+
+<!-- ==================== INTRO ==================== -->
 
 <h1 align="center">Hi 👋, I'm Shimlat Jahan Sonia</h1>
 
@@ -12,19 +18,16 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer+%F0%9F%92%BB;Learning+React+%26+Next.js+%F0%9F%9A%80;JavaScript+%26+TypeScript+Enthusiast+%E2%9C%A8;Building+Modern+Web+Interfaces+%F0%9F%8E%A8;Always+Learning+New+Things+%F0%9F%8C%B1"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Frontend+Web+Development+Enthusiast+%F0%9F%92%BB;Exploring+React+%26+Next.js+%F0%9F%9A%80;Learning+JavaScript+%26+TypeScript+%E2%9C%A8;Building+Modern+Web+Interfaces+%F0%9F%8E%A8;Learning+Something+New+Every+Day+%F0%9F%8C%B1"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-  <a href="mailto:shimlatjahansonia@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shimlatjahansonia%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/shimlatjahan">
-    <img src="https://img.shields.io/badge/GitHub-shimlatjahan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=shimlatjahan&label=PROFILE%20VIEWS&style=for-the-badge" alt="Profile Views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=shimlatjahan&label=Profile%20Views&color=blueviolet&style=flat-square"
+    alt="Profile Views"
+  />
 </p>
 
 ---
@@ -33,143 +36,59 @@
 
 ## 👩‍💻 About Me
 
-- 👋 Hi, I'm **Shimlat Jahan Sonia**
-- 🎓 Studying **Public Administration** at **University of Barishal**
-- 💻 Passionate about **Web Development**
-- 🌱 Currently learning **JavaScript, TypeScript, React & Next.js**
-- 🎨 Interested in **Frontend Development & Responsive UI**
-- 🧩 I enjoy **Coding, Problem Solving & Debugging**
-- 🚀 Always exploring and learning new technologies
-- ✨ I believe in **Learn • Build • Explore • Grow**
+I'm **Shimlat Jahan Sonia**, a **Public Administration** student at the **University of Barishal** with a growing passion for **Web Development**.
+
+I enjoy learning modern web technologies, building clean and responsive user interfaces, solving problems, and turning ideas into real-world projects. I'm continuously improving my development skills and exploring new technologies.
+
+### 🚀 What I'm Up To
+
+- 🌱 Exploring **Next.js & TypeScript**
+- ⚛️ Improving my skills in **React**
+- 💻 Building **Web Development Projects**
+- 🎨 Learning to create modern and responsive user interfaces
+- 🧩 Improving my **Problem Solving & Debugging** skills
+- 📚 Learning something new every day
 
 ---
 
-<!-- ==================== CURRENTLY LEARNING ==================== -->
+<!-- ==================== SKILLS ==================== -->
 
-## 🌱 Currently Learning
+## 🛠️ Skills & Technologies
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-</p>
-
----
-
-<!-- ==================== TECH STACK ==================== -->
-
-## 🛠️ Tech Stack
+<div align="center">
 
 ### 🎨 Frontend
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"
-    alt="Frontend Technologies"
-  />
-</p>
+<img
+  src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"
+  alt="Frontend Skills"
+/>
 
-### ⚙️ Backend
+<br/><br/>
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=nodejs,express,mongodb"
-    alt="Backend Technologies"
-  />
-</p>
+### ⚙️ Backend & Database
+
+<img
+  src="https://skillicons.dev/icons?i=nodejs,express,mongodb"
+  alt="Backend Skills"
+/>
+
+<br/><br/>
 
 ### 🧰 Tools & Platforms
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=git,github,vscode,npm"
-    alt="Development Tools"
-  />
-</p>
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,npm"
+  alt="Development Tools"
+/>
+
+</div>
 
 ---
 
-<!-- ==================== TECHNOLOGIES ==================== -->
+<!-- ==================== CONNECT ==================== -->
 
-## 💻 Technologies I Work With
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
----
-
-<!-- ==================== GITHUB STATS ==================== -->
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=shimlatjahan&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Shimlat's GitHub Stats"
-  />
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimlatjahan&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
-
----
-
-<!-- ==================== GITHUB STREAK ==================== -->
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=shimlatjahan&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-<!-- ==================== GITHUB TROPHIES ==================== -->
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=shimlatjahan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-<!-- ==================== ACTIVITY GRAPH ==================== -->
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shimlatjahan&theme=tokyo-night&hide_border=true"
-    alt="Shimlat's Contribution Graph"
-  />
-</p>
-
----
-
-<!-- ==================== CONNECT WITH ME ==================== -->
-
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -183,26 +102,79 @@
   <a href="mailto:shimlatjahansonia@gmail.com">
     <img
       src="https://img.shields.io/badge/Gmail-shimlatjahansonia%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
+      alt="Gmail"
     />
   </a>
 
 </p>
 
+<p align="center">
+  📍 Barishal, Bangladesh
+  &nbsp;&nbsp; • &nbsp;&nbsp;
+  📧 shimlatjahansonia@gmail.com
+</p>
+
 ---
 
-<!-- ==================== MY GOALS ==================== -->
+<!-- ==================== GITHUB STATS ==================== -->
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=shimlatjahan&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Shimlat's GitHub Stats"
+  />
+
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimlatjahan&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
+
+</p>
+
+---
+
+<!-- ==================== STREAK ==================== -->
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=shimlatjahan&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+<!-- ==================== CONTRIBUTION ==================== -->
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shimlatjahan&theme=tokyo-night&hide_border=true&area=true"
+    alt="Contribution Graph"
+  />
+</p>
+
+---
+
+<!-- ==================== GOALS ==================== -->
 
 ## 🎯 My Goals
 
 - 🚀 Become a skilled **Frontend Web Developer**
-- ⚛️ Build strong projects using **React & Next.js**
-- 💛 Improve my **JavaScript & TypeScript** skills
-- 🎨 Build beautiful, modern and responsive web interfaces
+- ⚛️ Build real-world projects using **React & Next.js**
+- 💛 Strengthen my **JavaScript & TypeScript** knowledge
+- 🎨 Create clean, responsive and user-friendly interfaces
 - 🧠 Improve my **Problem Solving** skills
-- 🌐 Build real-world web development projects
-- 🤝 Contribute to collaborative projects
-- 🌱 Learn something new every day
+- 🤝 Collaborate on meaningful development projects
+- 🌱 Keep learning and growing every day
 
 ---
 
@@ -219,6 +191,8 @@ const shimlat = {
     university: "University of Barishal",
   },
 
+  location: "Barishal, Bangladesh",
+
   passion: "Web Development",
 
   currentlyLearning: [
@@ -230,9 +204,9 @@ const shimlat = {
 
   interests: [
     "Frontend Development",
-    "Responsive UI",
+    "Responsive Web Design",
     "Problem Solving",
-    "Modern Web Development",
+    "Modern Web Technologies",
   ],
 
   goal: "Become a skilled Frontend Web Developer",
@@ -243,15 +217,31 @@ const shimlat = {
 
 ---
 
-<!-- ==================== PROFILE VISITORS ==================== -->
+<!-- ==================== CONTACT ==================== -->
 
-## 👀 Profile Visitors
+## 📫 Contact Me
 
 <p align="center">
+
+Have an idea, project, or just want to connect?  
+Feel free to reach out! 💜
+
+<br/><br/>
+
+<a href="mailto:shimlatjahansonia@gmail.com">
   <img
-    src="https://komarev.com/ghpvc/?username=shimlatjahan&label=PROFILE%20VIEWS&style=for-the-badge"
-    alt="Profile Views"
+    src="https://img.shields.io/badge/Send%20Me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Send Email"
   />
+</a>
+
+<a href="https://github.com/shimlatjahan">
+  <img
+    src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
 </p>
 
 ---
@@ -262,8 +252,6 @@ const shimlat = {
 
 ### ✨ Thanks for visiting my profile! ✨
 
-**💜 Learn • Build • Explore • Grow 🚀**
-
-📫 **Email:** [shimlatjahansonia@gmail.com](mailto:shimlatjahansonia@gmail.com)
+💜 **Learn • Build • Explore • Grow** 🚀
 
 </div>
